@@ -27,7 +27,7 @@
   
   <div align="center">
     <h2> Você também pode me achar: </h2>
-<a href= https://www.linkedin.com/in/caio-lacerda-6445b8262/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href= https://www.linkedin.com/in/caiolacerdamt/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://instagram.com/caiolmt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>	
 
